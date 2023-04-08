@@ -5,12 +5,3 @@ title: please use this title
 = here is a real document
 
 this is a valid neorg document, but yet the title doesn't show up in the table of contents... at least for me
-
-
-@code lua
-
-function(hello)
-  print(hello)
-end
-
-@end
