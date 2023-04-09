@@ -1,5 +1,7 @@
 # Recreation Steps
 
+0. ensure that `gcc-12` is in your path, used to compile the norg treesitter syntax
+
 1. Clone this repo
 
 2. Run setup.sh script
